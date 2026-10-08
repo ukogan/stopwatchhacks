@@ -1,0 +1,10 @@
+# PlatformIO build output
+.pio/
+
+# Factory firmware dump (device-specific; never publish)
+backup/
+
+# Generated speaker-test clips (may contain copyrighted audio); rebuild with tools/make_audio_samples.py
+src/audio_samples.h
+
+.DS_Store
